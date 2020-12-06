@@ -18,14 +18,14 @@
 <p align="left">
   💌 Entre em contato comigo através das redes abaixo: ⤵️
 </p>
-
  <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:marlon_menezes@outlook.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marlon_menezes@outlook.com" /></a>
- <a href="#" alt="Linkedin">
+
+ <a href="https://www.linkedin.com/in/marlonmenezes/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marlonmenezes/" /></a>
 
-  <a href="#" alt="Twitter">
+  <a href="https://twitter.com/marlusher" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/marlusher"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonmnz&show_icons=true&locale=en" alt="marlonmnz" /></p>
