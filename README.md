@@ -1,22 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1 align="center">Oi 👋, Meu nome é Marlon!</h1>
+<h1 align="center">Hi 👋, my name is Marlon!</h1>
 
 <p align="left"> 
-  No momento estou me especializando para entrar na área de desenvolvimento <strong>Front-end</strong>. Gosto de ver o visual das coisas tomando forma e quero trazer esse mesmo sentimento aos usuários das aplicações em que eu fizer parte do desenvolvimento.
+  I`m <strong>Front-end Developer</strong>. 
 </p>
 
 <p align="left">
-    💻 Linguagens: <strong>HTML5, CSS3, JAVASCRIPT, BOOTSTRAP</strong>
+    💻 Stack: <strong>HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Sass and Vue💚 </strong>
 </p>
 
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, GIT e GitHub</strong>
+  💼 Work tools: <strong>Visual Studio Code, GIT e GitHub</strong>
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo através das redes abaixo: ⤵️
+  💌 Get in touch with me: ⤵️
 </p>
  <p align="left">
   <a href="mailto:marlon_menezes@outlook.com" target="_blank" alt="Gmail">
