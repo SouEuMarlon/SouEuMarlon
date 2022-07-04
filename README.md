@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, my name is Marlon!</h1>
 
 <p align="left"> 
-  I`m <strong>Front-end Developer</strong>. 
+  I'm <strong>Front-end Developer</strong>. 
 </p>
 
 <p align="left">
@@ -31,7 +31,7 @@
 <a href="https://t.me/soueu_marlon" target="_blank" alt="Telegram">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/soueu_marlon"/></a>
 
-<a href="https://api.whatsapp.com/send?phone=5531994469272&text=Ol%C3%A1!%20Que%20bom%20que%20entrou%20em%20contato.%20Assim%20que%20poss%C3%ADvel%20responderei%2C%20ok%3F!%20%F0%9F%98%89" target="_blank" alt="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=5531994469272&text=Ol%C3%A1%2C%20podemos%20conversar%3F" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994469272&text=Ol%C3%A1!%20Tudo%20bom?%20%F0%9F%98%89"/></a>
 
 
