@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-    💻 Stack: <strong>HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Sass and Vue💚 </strong>
+    💻 Stack: <strong>HTML5, CSS3, JavaScript, Bootstrap e TailwindCSS </strong>
 </p>
 
 
