@@ -24,26 +24,18 @@ Furthermore, I have experience in implementing designs on responsive websites an
 
 ### Development Tools 🛠️
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" title="Windows" style="margin-right: 8px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" alt="Git" title="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" title="GitLab"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows" title="Windows" style="margin-right: 8px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" alt="Git" title="Git"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
 
 ### Contact 📱
 
 
 <div align="left">
-  <a href="mailto:marlon_menezes@outlook.com" target="_blank" alt="Email">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marlon_menezes@outlook.com" alt="Email" title="Email"/>
+<a href="mailto:marlonmenezes.dev@gmail.com" target="_blank" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marlonmenezes.dev@gmail.com" alt="Email" title="Email"/>
 </a>
 
- <a href="https://www.linkedin.com/in/marlonmenezes/" target="_blank" alt="Linkedin">
+<a href="https://www.linkedin.com/in/marlonmenezes/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marlonmenezes/" alt="Linkedin" title="Linkedin"/>
-</a>
-
-<a href="https://t.me/soueu_marlon" target="_blank" alt="Telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/soueu_marlon" alt="Telegram" title="Telegram"/>
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5531994469272&text=Ol%C3%A1%2C%20podemos%20conversar%3F" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531994469272&text=Ol%C3%A1!%20Tudo%20bom?%20%F0%9F%98%89" alt="WhatsApp" title="WhatsApp"/>
 </a>
 
 <p>
