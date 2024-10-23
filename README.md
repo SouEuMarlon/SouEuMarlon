@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1 align="center">Hi 👋 it's me, Marlon!</h1>
+<h1 align="center">Hi 👋! It's me, Marlon!</h1>
 
 <p align="left">
 I am a <strong>Front-End Developer</strong> with four years of experience in creating responsive and user-friendly user interfaces for a variety of web projects. I am capable of building dynamic applications that provide an exceptional user experience.
