@@ -33,15 +33,4 @@ Furthermore, I have experience in implementing designs on responsive websites.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marlonmenezes/" alt="Linkedin" title="Linkedin"/>
 </a>
 
-<p>
-&nbsp;
-</p>
-
-<a href="https://https://github.com/SouEuMarlon/" alt="Marlon's github stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouEuMarlon&show_icons=true&theme=vision-friendly-dark" alt="Marlon's github stats" title="Marlon's github stats"/>
-</a>
-<a href="https://https://github.com/SouEuMarlon/" alt="Most Used Languages">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouEuMarlon&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Most Used Languages" title="Most Used Languages"/>
-</a>
-
 </div>  
