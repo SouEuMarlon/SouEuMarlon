@@ -16,10 +16,7 @@ Furthermore, I have experience in implementing designs on responsive websites.
 <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" title="Sass"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" width="40" height="40" alt="Stylus" title="Stylus"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="VueJS" title="VueJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" title="NextJS"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="VueJS" title="VueJS"/>          
 
 
 ### Contact 📱
